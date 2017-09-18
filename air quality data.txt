@@ -472,15 +472,16 @@ IMPRHR2  PORE1     1    20031214  0.0745      0.2773
 IMPRHR2  PORE1     1    20031217  0.3314      0.3768      
 IMPRHR2  PORE1     1    20031220  1.9877      1.231       
 IMPRHR2  PORE1     1    20031223  2.891       2.2282      
-IMPRHR2  PORE1     1    20031226  0.0839      0.3821      
-IMPRHR2  PORE1     1    20031229  0.079       0.3831      
-IMPRHR2  PORE1     1    20040101  0.0808      0.3811      
-IMPRHR2  PORE1     1    20040104  0.1572      0.1869      
-IMPRHR2  PORE1     1    20040107  1.0644      0.5313      
-IMPRHR2  PORE1     1    20040110  0.8356      0.9645      
-IMPRHR2  PORE1     1    20040113  9.7421      3.4713      
-IMPRHR2  PORE1     1    20040116  5.0204      1.4518      
-IMPRHR2  PORE1     1    20040119  0.2166      0.368       
+
+
+
+
+this is my change to the file
+
+
+
+
+
 IMPRHR2  PORE1     1    20040122  0.5534      0.3678      
 IMPRHR2  PORE1     1    20040125  0.0967      0.2223      
 IMPRHR2  PORE1     1    20040128  0.1944      0.3308      
